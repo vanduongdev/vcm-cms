@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Chúng tôi đnag rất cần các bạn",
+        "unitName": "unit 1",
+        "unitId": 1,
+        "professionName": "Kế toán",
+        "professionId": 3,
+        "rankPositionName": "Trưởng phòng",
+        "rankPositionId": 2,
+        "positionName": "Kế toán trưởng",
+        "positionId": 2,
+        "fromSalary": 1000,
+        "toSalary": 2000,
+        "monetaryUnit": "VND",
+        "location": "Viettel-limex",
+        "workingForm": "ALLTIME",
+        "amount": 20,
+        "dueDate": "20-04-2023",
+        "description": "Chúng tôi cần thuê nhưng người dz",
+        "recruitmentCondition": "Tốt nghiệp đại học",
+        "treatment": "Lương thưởng ên đến 14 tháng",
+        "recruitmentMethod": "Phỏng vấn trực tiếp",
+        "deleted": true,
+        "createdAt": 1680594707.321695,
+        "lastModifiedAt": 1680594707.321695,
+        "isSaved": false
+      }
+    ],
+    "hasNext": false,
+    "numberOfItems": 8,
+    "totalRecords": 8,
+    "totalPage": 1
+}
